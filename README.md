@@ -11,6 +11,10 @@ Sou Clara Becker, estudante de Engenharia de Software no 4° semestre em busca d
   - Linguagens: Python, Java.
   - Frameworks: Springboot, Flask.
   - Ferramentas: Docker, Git.
+ 
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=dark" alt="Clara Becker's GitHub stats" />
+</div>
 
 ## 💬 Vamos Conversar!
 
