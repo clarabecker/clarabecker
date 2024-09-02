@@ -13,7 +13,7 @@ Sou Clara Becker, estudante de Engenharia de Software no 4° semestre em busca d
   - Ferramentas: Docker, Git.
  
 <div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=dark" alt="Clara Becker's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=cobalt" alt="Clara Becker's GitHub stats" />
 </div>
 
 ## 💬 Vamos Conversar!
