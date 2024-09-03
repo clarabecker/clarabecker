@@ -9,8 +9,7 @@ Sou Clara Becker, estudante de Engenharia de Software no 4° semestre em busca d
 - 💼 Trabalho Atual: Projeto de Pesquisa Automático de Algoritmos - UDESC
 - 🛠️ Tecnologias e Ferramentas:
   - Linguagens: Python, Java.
-  - Frameworks: Springboot, Flask.
-  - Ferramentas: Docker, Git.
+  - Ferramentas: Git.
 
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=tokyo-night" alt="Clara Becker's GitHub stats" />
