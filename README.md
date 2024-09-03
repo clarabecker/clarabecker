@@ -4,7 +4,7 @@ Sou Clara Becker, estudante de Engenharia de Software no 4° semestre em busca d
 
 ## 🧠 Sobre Mim
 
-- 🌍 Localização: Ibirama, Santa catarina.
+- 🌍 Localização: Ibirama, Santa Catarina.
 - 🧑‍🎓 Formação: Técnico em Informática - IFC. Engenharia de Software - UDESC (em andamento).
 - 💼 Trabalho Atual: Projeto de Pesquisa Automático de Algoritmos - UDESC
 - 🛠️ Tecnologias e Ferramentas:
