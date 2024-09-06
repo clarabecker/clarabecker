@@ -10,7 +10,7 @@ Sou Clara Becker, estudante de Engenharia de Software no 4° semestre em busca d
 - 🛠️ Tecnologias e Ferramentas:
   - Linguagens: Python, Java.
   - Ferramentas: Git.
-
+<br>
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=cobalt" alt="Clara Becker's GitHub stats" />
 </div>
