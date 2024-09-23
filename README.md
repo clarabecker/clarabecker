@@ -1,6 +1,3 @@
-# Olá! 👋
-
-Sou Clara Becker, estudante de Engenharia de Software no 4° semestre em busca de conhecimento em Inteligência Artificial, Desenvolvimento e tudo que envolve Tecnologia.
 
 ## 🧠 Sobre Mim
 
