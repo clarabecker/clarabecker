@@ -7,6 +7,7 @@
 - 🛠️ Tecnologias e Ferramentas:
   - Linguagens: Python, Java.
   - Ferramentas: Git.
+  - Frameworks: Spring Boot, Flask.
 <br>
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=cobalt" alt="Clara Becker's GitHub stats" />
