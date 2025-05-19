@@ -1,13 +1,9 @@
 
 ## 🧠 Sobre Mim
 
-- 🌍 Localização: Ibirama, Santa Catarina.
 - 🧑‍🎓 Formação: Técnico em Informática - IFC. Engenharia de Software - UDESC (em andamento).
 - 💼 Trabalho Atual: Projeto de Pesquisa Automático de Algoritmos - UDESC
-- 🛠️ Tecnologias e Ferramentas:
-  - Linguagens: Python, Java.
-  - Ferramentas: Git.
-  - Frameworks: Spring Boot, Flask.
+
 <br>
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=cobalt" alt="Clara Becker's GitHub stats" />
