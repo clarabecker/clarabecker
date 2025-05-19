@@ -33,11 +33,4 @@
   <img width="12" />
 </div>
 
-## 💬 Vamos Conversar!
-
-Adoraria conectar e conversar sobre Tecnologia, Desenvolvimento, Projetos Interessantes, etc. Sinta-se à vontade para me seguir ou me enviar um email (Claraeu15@outlook.com).
-
-- [LinkedIn](https://www.linkedin.com/in/clara-becker-859b89293/)
-
-Obrigado pela visita!
 
