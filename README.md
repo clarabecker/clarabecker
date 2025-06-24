@@ -1,19 +1,20 @@
 
-## 🧠 Sobre Mim
+## Sobre Mim
+- 🎓 **Formação**: Técnico em Informática - IFC  
+- 🎓 **Graduanda**: Engenharia de Software - UDESC  
+- 🔬 **Atualmente**: Pesquisadora no Projeto de Algoritmos Automatizados - UDESC  
 
-- 🧑‍🎓 Formação: Técnico em Informática - IFC. Engenharia de Software - UDESC (em andamento).
-- 💼 Trabalho Atual: Projeto de Pesquisa Automático de Algoritmos - UDESC
+## Estatísticas do GitHub
 
-<br>
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=cobalt" alt="Clara Becker's GitHub stats" />
+<div align="center">
+  <a href="https://github.com/clarabecker">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=clarabecker&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabecker&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+  </a>
 </div>
-<!-- Linguagens mais usadas -->
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabecker&layout=compact&theme=cobalt" alt="Linguagens mais usadas" />
-</div>
 
-## Tecnologias
+
+## Tecnologias que uso 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
